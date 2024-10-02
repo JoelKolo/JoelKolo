@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelKolo
-- 👀 I Teach individuals and communities the rudiments of Web3 
-- 🌱 I’m currently Teaching and Managing Some Web3 Communities
+- 👀 I teach individuals and communities the rudiments of Web3 
+- 🌱 I’m currently Teaching and Managing Web3 Communities
 - 💞️ I’m looking forward to collaborate with other Web3 communities, startups and Projects
 - 📫 How to reach me: Twitter: @JoelKolo, email: victorkolo09@yahoo.com 
 <!---
